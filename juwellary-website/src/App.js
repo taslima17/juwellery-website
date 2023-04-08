@@ -10,6 +10,7 @@ import Contact from './Pages/Contact/Contact';
 import Products from './Pages/Product/Products';
 import Footer from './Pages/Footer/Footer';
 import PageNotFound from './Pages/Home/PageNotFound/PageNotFound';
+import ProductDetails from './Pages/Product/ProductDetails';
 function App() {
   return (
     <BrowserRouter>
@@ -20,6 +21,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/products" element={<Products />} />
+        <Route exact path="/product/:id" element={<ProductDetails />} />
         <Route path="*" element={<PageNotFound />} />
 
 

@@ -1,0 +1,21 @@
+.productBanner {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://e0.pxfuel.com/wallpapers/529/357/desktop-wallpaper-gold-jewellery-design-gold-jewelry.jpg);
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: cover;
+    margin-bottom: 50px;
+
+}
+
+.productBanner h1 {
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}

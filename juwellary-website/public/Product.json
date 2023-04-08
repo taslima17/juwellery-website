@@ -65,7 +65,7 @@
     {
         "id": "10",
         "name": "Amble Earring",
-        "img_url": "https://nagai-theme.myshopify.com/products/amble-earring?pr_prod_strat=collection_fallback&pr_rec_id=611be15a8&pr_rec_pid=5524409581717&pr_ref_pid=5524408860821&pr_seq=uniform",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-89_3e7e5321-fa02-4dc8-8a46-96b2fc8f5384_540x.jpg?v=1595929744",
         "price": "145$",
         "category": "Earring"
     },
@@ -110,5 +110,19 @@
         "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-68_04072f29-e3b9-4591-852a-825876d6c74c_540x.jpg?v=1595929721",
         "price": "399$",
         "category": "Ring"
+    },
+    {
+        "id": "17",
+        "name": "Multi Stone Stud",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-47_f9d79e21-4a24-4ac0-a374-779f3710dd28_540x.jpg?v=1595929702",
+        "price": "990$",
+        "category": "Earring"
+    },
+    {
+        "id": "18",
+        "name": "Diamond Stud",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-50_3ef85b88-d615-48bf-b0ce-35b9102a68db_540x.jpg?v=1595929699",
+        "price": "329$",
+        "category": "Earring"
     }
 ]
