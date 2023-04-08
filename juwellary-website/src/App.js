@@ -9,16 +9,18 @@ import About from './Pages/About/About';
 import Contact from './Pages/Contact/Contact';
 import Products from './Pages/Product/Products';
 import Footer from './Pages/Footer/Footer';
+import PageNotFound from './Pages/Home/PageNotFound/PageNotFound';
 function App() {
   return (
     <BrowserRouter>
       <Navigation></Navigation>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/home" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/products" element={<Products />} />
+        <Route path="*" element={<PageNotFound />} />
 
 
 
