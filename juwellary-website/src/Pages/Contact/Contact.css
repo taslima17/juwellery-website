@@ -1,0 +1,64 @@
+.contactBanner {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://media.istockphoto.com/id/1311934969/photo/contact-us.jpg?b=1&s=170667a&w=0&k=20&c=2sJEN1Hhg6heUi1ZxKs6pJDwcyLYXPc4pUGd3hEjOjE=);
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+.contactBanner h1 {
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+
+.ContactForm {
+
+    background: linear-gradient(#474753, #474753), url('https://img.freepik.com/premium-photo/sale-consumerism-shopping-people-concept-happy-women-looking-jewelry-shop-window-mall_380164-110334.jpg?w=2000');
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 100vh;
+    padding: 100px;
+
+    background-repeat: no-repeat;
+    width: 100%;
+
+    color: rgb(252, 250, 250);
+
+}
+
+input[type=text],
+input[type=email],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    /* border: 1px solid black; */
+    box-shadow: #474753;
+    border-radius: 4px;
+    background: #e2e2e1;
+    color: rgb(36, 37, 37);
+}
+
+
+input[type=submit] {
+    background-color: #010e09;
+    color: white;
+    padding: 12px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #7c7676;
+    color: black;
+}

@@ -1,0 +1,22 @@
+.icons i {
+    font-size: 15px;
+    margin: 20px;
+}
+
+.icons i:hover {
+    transform: scale(1.2);
+    color: silver;
+}
+
+.link:hover {
+    transform: scale(1.2);
+    color: silver;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.logo {
+    font-family: 'Satisfy', cursive;
+    color: rgb(253, 253, 255);
+    font-weight: 600;
+}

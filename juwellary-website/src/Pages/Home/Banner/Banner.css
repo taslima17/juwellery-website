@@ -1,0 +1,21 @@
+.banner {
+    background: linear-gradient(#e0dfdf, #dfdfe0), url('https://www.kgkgroup.com/wp-content/uploads/2019/12/Make-The-Jewellery-Speak-2.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 100vh;
+    padding-top: 100px;
+    padding-right: 650px;
+    padding-left: 50px;
+    width: 100%;
+    /* padding-left: 250px; */
+    color: rgb(252, 250, 250);
+}
+
+.banner h1 {
+    font-size: 60px;
+}
+
+.banner p {
+    font-size: 20px;
+    color: rgb(235, 231, 229);
+}

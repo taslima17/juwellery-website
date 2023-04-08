@@ -1,0 +1,31 @@
+.aboutBanner {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://www.giaindia.in/wp-content/uploads/2014/07/jewelry_design2.jpg);
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: cover;
+}
+
+.aboutBanner h1 {
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+
+}
+
+.history {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://cdn.shopify.com/s/files/1/0796/1959/products/antique-necklace-ruby-green-antique-necklace-153511-35720898936988_1024x1024.jpg?v=1676556550);
+    /* height: 400px; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: cover;
+}

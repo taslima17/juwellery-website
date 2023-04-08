@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "name": "Heart Pendant",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-92_84799815-fde8-45b5-8847-f91b603f601e_540x.jpg?v=1595929747",
+        "price": "250$",
+        "category": "Pendant"
+    },
+    {
+        "id": "2",
+        "name": "Ame Pearl Bracelet",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-88_119be84b-12c2-4722-8945-48d4205d57ca_600x.jpg?v=1595929741",
+        "price": "780$",
+        "category": "Bracelet"
+    },
+    {
+        "id": "3",
+        "name": "Flower Ring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-77_ca097677-7f39-4058-8a3d-1ca530940f5d_540x.jpg?v=1595929730",
+        "price": "150$",
+        "category": "Ring"
+    },
+    {
+        "id": "4",
+        "name": "Trendy Ring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-59_540x.jpg?v=1595929711",
+        "price": "290$",
+        "category": "Ring"
+    },
+    {
+        "id": "5",
+        "name": "Couple Ring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-56_152f9a8d-afb0-4360-a0c4-adeed032d99c_540x.jpg?v=1595929708",
+        "price": "300$",
+        "category": "Ring"
+    },
+    {
+        "id": "6",
+        "name": "Gold Pendant Chain",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-38_c4361b91-610d-48d5-85e6-986fd39e842a_540x.jpg?v=1595929689",
+        "price": "423$",
+        "category": "Pendant"
+    },
+    {
+        "id": "7",
+        "name": "Golden Bracelet",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-5_89c15cae-a4b7-4558-b64b-0be02f2c98c5_540x.jpg?v=1595929653",
+        "price": "199$",
+        "category": "Bracelet"
+    },
+    {
+        "id": "8",
+        "name": "Platinum Chain",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-12_fa5ce766-3dce-4367-b77f-2b073963348b_540x.jpg?v=1595929661",
+        "price": "990$",
+        "category": "Pendant"
+    },
+    {
+        "id": "9",
+        "name": "Multi Stone Earring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-98_21daea32-2edd-4951-a41a-9159c6876fb5_540x.jpg?v=1595929752",
+        "price": "567$",
+        "category": "Earring"
+    },
+    {
+        "id": "10",
+        "name": "Amble Earring",
+        "img_url": "https://nagai-theme.myshopify.com/products/amble-earring?pr_prod_strat=collection_fallback&pr_rec_id=611be15a8&pr_rec_pid=5524409581717&pr_ref_pid=5524408860821&pr_seq=uniform",
+        "price": "145$",
+        "category": "Earring"
+    },
+    {
+        "id": "11",
+        "name": "Emer Ring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-74_1987bc35-2186-421c-bb1f-c579175847e6_540x.jpg?v=1595929727",
+        "price": "700$",
+        "category": "Ring"
+    },
+    {
+        "id": "12",
+        "name": "Gamets Chain",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-26_864b4bd8-32fd-4e40-869a-3964198f5f7a_600x.jpg?v=1595929676",
+        "price": "355$",
+        "category": "Pendant"
+    },
+    {
+        "id": "13",
+        "name": "Diamond Stud",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-50_3ef85b88-d615-48bf-b0ce-35b9102a68db_540x.jpg?v=1595929699",
+        "price": "299$",
+        "category": "Pendant"
+    },
+    {
+        "id": "14",
+        "name": "Leaf Earring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-35_222c03dc-adf2-4fc3-a255-f81b9eaa7238_540x.jpg?v=1595929686",
+        "price": "677$",
+        "category": "Earring"
+    },
+    {
+        "id": "15",
+        "name": "JD Silver Chain",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-1_33a85c94-5078-4d0b-a5ed-fb894d03e65c_540x.jpg?v=1595929648",
+        "price": "434$",
+        "category": "Pendant"
+    },
+    {
+        "id": "16",
+        "name": "Rose Gold Ring",
+        "img_url": "https://cdn.shopify.com/s/files/1/0436/2610/2933/products/shop-68_04072f29-e3b9-4591-852a-825876d6c74c_540x.jpg?v=1595929721",
+        "price": "399$",
+        "category": "Ring"
+    }
+]
